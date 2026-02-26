@@ -157,9 +157,9 @@ petshop-project/
 ![客户管理](screenshots/客户管理.png)
 ![客户详情](screenshots/客户查看.png)
 ![添加客户](screenshots/添加客户.png)
- [](screenshots/添加客户2.png)
-   [](screenshots/添加客户3.png)
-      [](screenshots/添加客户4.png)
+![添加客户](screenshots/添加客户2.png)
+![添加客户](screenshots/添加客户3.png)
+![添加客户](screenshots/添加客户4.png)
 
 ### 服务预约
 
@@ -173,16 +173,22 @@ petshop-project/
 ![商品订单](screenshots/商品订单.png)
 ![入库管理](screenshots/入库管理.png)
 ![商品销量](screenshots/商品销量.png)
+
 ### 财务统计
 
 ![收银台](screenshots/收银台.png)
-![财务统计](screenshots/收入统计.png)[](screenshots/收入.png)
-
+![财务统计](screenshots/收入统计.png)
+![财务统计](screenshots/收入.png)
 
 ### 短信配置
 
 ![短信配置](screenshots/短信配置.png)
-[](screenshots/短信配置2.png)[](screenshots/短信配置3.png)
+![短信配置](screenshots/短信配置2.png)
+![短信配置](screenshots/短信配置3.png)
+
+### 黑夜模式
+
+![黑夜模式](screenshots/黑夜模式.png)
 
 ## 📝 开发计划
 
